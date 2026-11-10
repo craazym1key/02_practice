@@ -3,4 +3,6 @@
 
 - This is kinda making more sense as i go.
 
-Cooooool
+Cooooool 
+
+# Was a bit confusing but I understand it now
